@@ -1,0 +1,120 @@
+id: 5d2ed9a6f6f04d71bd55c8f34f91819c
+annotation_type: Sabche
+revision: '00001'
+annotations:
+  5227b51818bc495ea9c0e81d4d6106b9:
+    span:
+      start: 1835
+      end: 1845
+  217a98fd8fb949f597fe3d319a5d5801:
+    span:
+      start: 1847
+      end: 1865
+  1b33af59b38c485688c85b7b8b4fd967:
+    span:
+      start: 1867
+      end: 1909
+  faa41132e4284cb0aeeda25b144770e0:
+    span:
+      start: 1911
+      end: 1942
+  b9fb74f848114f41a1253f647dac0683:
+    span:
+      start: 1944
+      end: 1973
+  1d127592978a4f4a991589c742ec006b:
+    span:
+      start: 1975
+      end: 2019
+  0e05865da80149dbaa016bb46fabd90d:
+    span:
+      start: 2021
+      end: 2051
+  5e795b08f5b74f0ebb9a3fa45c1ae0d8:
+    span:
+      start: 2053
+      end: 2077
+  6602eacd98cf49689c8d8502c4934b8c:
+    span:
+      start: 2079
+      end: 2095
+  6a19e760999541d2a793853ade84860b:
+    span:
+      start: 2097
+      end: 2123
+  0c93b7f245fc42f6be2480493a662457:
+    span:
+      start: 2125
+      end: 2181
+  b1e309b7329647d688809788bc71a037:
+    span:
+      start: 2183
+      end: 2230
+  9df1850568234aa6ba95c3c7c9f4b10a:
+    span:
+      start: 2232
+      end: 2256
+  001a66cffe9d40eda454d63669c92b96:
+    span:
+      start: 2258
+      end: 2305
+  337028e769964deeb4c9acb1cca6a67f:
+    span:
+      start: 2307
+      end: 2326
+  9fed2f34f43e484aaefb9ac629ca8370:
+    span:
+      start: 2328
+      end: 2352
+  4bb5aebf45154200827f649723dedbd2:
+    span:
+      start: 2354
+      end: 2377
+  2da183d8416641129348003897d97915:
+    span:
+      start: 2379
+      end: 2439
+  49d589adc3bf48baa975950e169908d3:
+    span:
+      start: 2441
+      end: 2472
+  b5207c5e525c484489e2d106a95b428e:
+    span:
+      start: 2474
+      end: 2497
+  5e2b59b885634df2bdfe6bdfa07026e8:
+    span:
+      start: 2499
+      end: 2550
+  7d2585565161442d9d554f759bfff77e:
+    span:
+      start: 2552
+      end: 2618
+  36de4a3910eb461fa93b24d5e0a32ed2:
+    span:
+      start: 2620
+      end: 2667
+local_ids:
+  5227b51818bc495ea9c0e81d4d6106b9: 200000
+  217a98fd8fb949f597fe3d319a5d5801: 200001
+  1b33af59b38c485688c85b7b8b4fd967: 200002
+  faa41132e4284cb0aeeda25b144770e0: 200003
+  b9fb74f848114f41a1253f647dac0683: 200004
+  1d127592978a4f4a991589c742ec006b: 200005
+  0e05865da80149dbaa016bb46fabd90d: 200006
+  5e795b08f5b74f0ebb9a3fa45c1ae0d8: 200007
+  6602eacd98cf49689c8d8502c4934b8c: 200008
+  6a19e760999541d2a793853ade84860b: 200009
+  0c93b7f245fc42f6be2480493a662457: 200010
+  b1e309b7329647d688809788bc71a037: 200011
+  9df1850568234aa6ba95c3c7c9f4b10a: 200012
+  001a66cffe9d40eda454d63669c92b96: 200013
+  337028e769964deeb4c9acb1cca6a67f: 200014
+  9fed2f34f43e484aaefb9ac629ca8370: 200015
+  4bb5aebf45154200827f649723dedbd2: 200016
+  2da183d8416641129348003897d97915: 200017
+  49d589adc3bf48baa975950e169908d3: 200018
+  b5207c5e525c484489e2d106a95b428e: 200019
+  5e2b59b885634df2bdfe6bdfa07026e8: 200020
+  7d2585565161442d9d554f759bfff77e: 200021
+  36de4a3910eb461fa93b24d5e0a32ed2: 200022

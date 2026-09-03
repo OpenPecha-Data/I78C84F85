@@ -1,0 +1,50 @@
+id: 1ee08c1bc2a047ba92c387dcb490fed5
+annotation_type: Yigchung
+revision: '00001'
+annotations:
+  0ab473231afb4911b76e6183dd7eb35d:
+    span:
+      start: 19319
+      end: 19659
+  0660b041da774b9eb6a3620c0190ae97:
+    span:
+      start: 27767
+      end: 28012
+  92abca432f06479e8b1e329929c6978b:
+    span:
+      start: 37097
+      end: 37147
+  5ee56be24f124fc98517e4424a547dc5:
+    span:
+      start: 55264
+      end: 55368
+  2b23577dd3e14e4eb5919dcf0d338d14:
+    span:
+      start: 58498
+      end: 58548
+  21c37a569f6747508b810a9814a8a15a:
+    span:
+      start: 66455
+      end: 66493
+  1981b9fa5daa4af99190981f04c8e5f0:
+    span:
+      start: 69249
+      end: 69287
+  b96e1fcd1ccb47f2be13f43e6ad12f09:
+    span:
+      start: 84308
+      end: 84594
+  f72be0484f8c485fbb76c9ede72be430:
+    span:
+      start: 85446
+      end: 85600
+local_ids:
+  0ab473231afb4911b76e6183dd7eb35d: 200000
+  0660b041da774b9eb6a3620c0190ae97: 200001
+  92abca432f06479e8b1e329929c6978b: 200002
+  5ee56be24f124fc98517e4424a547dc5: 200003
+  2b23577dd3e14e4eb5919dcf0d338d14: 200004
+  21c37a569f6747508b810a9814a8a15a: 200005
+  1981b9fa5daa4af99190981f04c8e5f0: 200006
+  b96e1fcd1ccb47f2be13f43e6ad12f09: 200007
+  f72be0484f8c485fbb76c9ede72be430: 200008
